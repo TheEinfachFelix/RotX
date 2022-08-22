@@ -45,6 +45,3 @@ class rot:
 if __name__ == '__main__':
     rot("olbalnpialzrlpulohbzhbmnhilu",20) 
     
-# "Alle_Affen_essen_Bananen"
-# input("Bitte String zum convertieren eingeben:")
-    
